@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Aptitudes
-permalink: skills/
 lang: es
 ref: skills
 ---
