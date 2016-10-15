@@ -13,6 +13,10 @@ ruby RUBY_VERSION
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "1.2"
+gem "kramdown", "1.11.1"
+gem "jekyll-sass-converter", "1.3.0"
+gem "listen", "3.0.6"
+
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
