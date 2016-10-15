@@ -9,6 +9,3 @@ Hi! My name is Antonio Ortega, and I am a first year student at the MSc. in Bioi
 First of all, I love learning random stuff, mainly online and on Youtube. I follow channels like Vsauce, Veritasium, Langfocus, Art of the Problem, iBiology.. I like learning good science because of its ability to keep simple and, at the same time, explaining what we see and we perceive in an easy to understand way. I am fond of speaking languages, and programming code. I decided to study Biochemistry because I would to some science related bachelor and my parents are doctors, so there you have it!
 
 During the programme, I was introduced to Bioinformatics, a discipline with a huge capacity to transform our lives and our societies. Residing at the crossroads of biology, mathematics and computer science, to me it seemed to be a rewarding topic, where I would learn a lot. Indeed, stats can go crazy from time to time. And so, I ended up studying in the very Nordic capital of Denmark, Copenhagen.
-
-![Giralda de Sevilla]({{ site.github.url }}/assets/giralda.jpg)
-![Tietgen Kollegium]({{ site.github.url }}/assets/tietgen.jpg)
