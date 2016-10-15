@@ -1,10 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /portfolio/
-lang: en
+lang: es
 ---
-
-Here I
 
 
