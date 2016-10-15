@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+ref: about
 ---
 
 Hi! My name is Antonio Ortega, and I am a first year student at the MSc. in Bioinformatics at the University of Copenhagen, Denmark. I finished my Bachelor of Science at the University of Seville, Spain. On this page I will bore you with the reasons why I decided to pursue a career in Bioinformatics.
