@@ -35,3 +35,12 @@ Hacking skills
 + ssh & scp
 + Sphinx and Jekyll dynamic websites generators
 + Arduino
+
+Additional background
+=========================
+
++ Completed Coursera course on Machine Learning (Andrew Ng.)
++ Reading Introduction to Statistical Learning
++ Reading Advanced R by Hadley Wickahm
++ Read Learn Python the Hard Way
++ Reading Biological Sequence Analisys (Durbin *et al.*)
