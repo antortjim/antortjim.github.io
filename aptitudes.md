@@ -8,12 +8,12 @@ ref: skills
 Lenguajes de programación
 =========================
 
-* Advanced R (> 2 años)
-* Intermediate Python (1 año)
-* Intermediate Linux shell (> 2 años)
-* Beginner Matlab ( < 1 año)
-* Beginner HTML/CSS ( < 2 años)
-* Beginner Latex ( < 1 año)
+* R avanzado (> 2 años)
+* Python intermedio (1 año)
+* Linux shell intermedio (> 2 años)
+* Matlab principiante ( < 1 año)
+* HTML/CSS principiante ( < 2 años)
+* Latex principiante ( < 1 año)
 
 Herramientas Bioinformáticas
 =============================
@@ -39,8 +39,8 @@ Habilidades computacionales
 Otros conocimientos
 =========================
 
-+ Completed Coursera course on Machine Learning (Andrew Ng.)
-+ Reading Introduction to Statistical Learning
-+ Reading Advanced R by Hadley Wickahm
-+ Read Learn Python the Hard Way
-+ Reading Biological Sequence Analisys (Durbin *et al.*)
++ Curso de Coursera en Aprendizaje Automático / Machine Learning (Andrew Ng.)
++ Leyendo Introduction to Statistical Learning
++ Leyendo Advanced R by Hadley Wickahm
++ Leído Learn Python the Hard Way
++ Leyendo Biological Sequence Analisys (Durbin *et al.*)

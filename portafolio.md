@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Portfolio
+title: Portafolio
 lang: es
 ref: portfolio
 ---
 
 Aquí podrás encontrar un índice de los proyectos realizados durante el Grado que se encuentran relacionados con la bioinformática.
-Here, you may find past projects completed during the Bachelor's.
 
 * [A mock analysis](BMS_1) of microarray data using R.
 
