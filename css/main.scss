@@ -31,6 +31,10 @@ $on-laptop:        800px;
 
 
 // Minima also includes a mixin for defining media queries.
+// Import partials from the `minima` theme.
+@import "minima";
+
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -38,6 +42,11 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
 
-// Import partials from the `minima` theme.
-@import "minima";
+
+

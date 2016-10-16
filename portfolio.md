@@ -8,20 +8,23 @@ lang: en
 
 Here, you may find past projects completed during the Bachelor's.
 
-* [A mock analysis](BMS_1) of microarray data using R.
+* [Microarray data analysis](http://people.binf.ku.dk/rnq313/BMS_1/html/) using R.
 
-* [A mock analysis](BMS_2) of RNA-seq data using the Tuxedo Protocol.
+* [RNA-seq data analysis](http://people.binf.ku.dk/rnq313/BMS_2/html/) using the Tuxedo Protocol (in Spanish).
 
-* [Gene coexpression network](BMS_3) study.
+* [Gene coexpression network](http://people.binf.ku.dk/rnq313/BMS_3/html/) study.
 
-* [Calcium physiology simulation](BMS_4) study.
+* [Calcium physiology simulation](http://people.binf.ku.dk/rnq313/BMS_4/html/) study.
  
-* [A pipeline](BAG_1) for RNA-seq and ChIP-seq integral analysis.
+* [Pipeline](http://people.binf.ku.dk/rnq313/BAG_1/html/) for RNA-seq and ChIP-seq integral analysis.
  
-* [A Python script](BAG_2) running the synteny algorithm on the genomes of *M. pneumoniae* and *M. genitalium*.
+* [Python report](http://people.binf.ku.dk/rnq313/BAG_2/synteny.pdf) and its [script](http://people.binf.ku.dk/rnq313/BAG_2/tarea_2.py) running the synteny algorithm on the genomes of *M. pneumoniae* and *M. genitalium*.
  
-* [An RNA-seq *de novo* pipeline](BAG_3) analysing data from *Xenopus tropicalis*.
+* [RNA-seq *de novo* pipeline](http://people.binf.ku.dk/rnq313/BAG_3/tarea_3.html) analysing data from *Xenopus tropicalis*.
  
-* [A variant call analysis](BAG_4) (in Spanish).
+* [Variant call analysis](http://people.binf.ku.dk/rnq313/BAG_4/tarea4.pdf) and its [shell script](http://people.binf.ku.dk/rnq313/BAG_4/GWAS.sh) (in Spanish).
 
-
+* [Bioinformatics and Genomic Analysis final exam](http://people.binf.ku.dk/rnq313/EXAM/examen.pdf) consisting of 2 parts:
+ 
+   1. Extended ChIP-seq analysis for prediction of PIF1 and PIF4 interaction in *A. thaliana*
+   2. RNA-seq *de novo* analysis of early and late embrionary states in *X. tropicalis* using edgeR.

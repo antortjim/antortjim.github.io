@@ -1,26 +1,29 @@
 ---
 layout: page
 title: Portafolio
-lang: es
 ref: portfolio
+lang: es
 ---
 
 Aquí podrás encontrar un índice de los proyectos realizados durante el Grado que se encuentran relacionados con la bioinformática.
 
-* [A mock analysis](BMS_1) of microarray data using R.
+* [Análisis de datos de microarrays](http://people.binf.ku.dk/rnq313/BMS_1/html/) en R.
 
-* [A mock analysis](BMS_2) of RNA-seq data using the Tuxedo Protocol.
+* [Análisis de datos de RNA-seq](http://people.binf.ku.dk/rnq313/BMS_2/html/) empleando el protocolo Tuxedo.
 
-* [Gene coexpression network](BMS_3) study.
+* [Estudio de redes de co-expresión génica](http://people.binf.ku.dk/rnq313/BMS_3/html/).
 
-* [Calcium physiology simulation](BMS_4) study.
+* [Simulación de la fisiología del calcio](http://people.binf.ku.dk/rnq313/BMS_4/html/).
  
-* [A pipeline](BAG_1) for RNA-seq and ChIP-seq integral analysis.
+* [*Pipeline*](http://people.binf.ku.dk/rnq313/BAG_1/html/) para el análisis integral de datos de RNA-seq y ChIP-seq.
  
-* [A Python script](BAG_2) running the synteny algorithm on the genomes of *M. pneumoniae* and *M. genitalium*.
+* [Sintenia del genoma de 2 bacterias](http://people.binf.ku.dk/rnq313/BAG_2/synteny.pdf) en [Python](http://people.binf.ku.dk/rnq313/BAG_2/tarea_2.py). 
  
-* [An RNA-seq *de novo* pipeline](BAG_3) analysing data from *Xenopus tropicalis*.
+* [Análisis de datos de RNA-seq *de novo*](http://people.binf.ku.dk/rnq313/BAG_3/tarea_3.html) procedentes de *Xenopus tropicalis*.
  
-* [A variant call analysis](BAG_4) (in Spanish).
+* [Análisis de variantes genómicas](http://people.binf.ku.dk/rnq313/BAG_4/tarea4.pdf) y [shell script](http://people.binf.ku.dk/rnq313/BAG_4/GWAS.sh).
 
-
+* [Examen final de Bioinformática y Análisis Genómico](http://people.binf.ku.dk/rnq313/EXAM/examen.pdf) dividido en 2 partes:
+ 
+   1. Análisis de ChiP-seq extendido para la predicción de interacciones entre PIF1 y PIF4 en *A. thaliana*
+   2. Análisis de RNA-seq *de novo* de estados embrionarios temprano y tardío en *X. tropicalis* empleando edgeR.
