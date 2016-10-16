@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About me
-permalink: /about/
-ref: about
+ref: index
 lang: en
 weight: 1
 ---

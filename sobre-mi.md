@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre mí
-ref: about
+ref: index
 lang: es
 weight: 1
 ---
