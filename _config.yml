@@ -23,7 +23,7 @@ description: #> # this means to ignore newlines until "baseurl:"
 index:
   en:
   es: portada.html
-baseurl: "/antortjim.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site
 twitter_username: antortjim
 github_username:  antortjim

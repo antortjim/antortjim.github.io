@@ -6,7 +6,7 @@ lang: es
 weight: 1
 ---
 
-¡Hola! Mi nombre es Antonio Ortega, y soy un estudiante de prmer año en el Máster de Bioinformática en la Universidad de Copenhague, en Dinamarca. Completé mi Grado en Bioquímica en la Universidad de Sevilla, España. En esta página temo aburrite con las razones que me empujaron a iniciar una carrera profesional en Bioinformática.
+¡Hola! Mi nombre es Antonio Ortega, y soy un estudiante de primer año en el Máster de Bioinformática en la Universidad de Copenhague, en Dinamarca. Completé mi Grado en Bioquímica en la Universidad de Sevilla, España. En esta página temo aburrite con las razones que me empujaron a iniciar una carrera profesional en Bioinformática.
 
 Ante todo, me encanta aprender de todo, sobre todo en Internet y especialmente por Youtube. Sigo canales como Vsauce, Veritasium, Langfocus, Art of the Problem, iBiology.. Me encanta comprender asuntos científicos cuando son sencillos y son capaces de explicar los misterios de la naturaleza y las formas que tenemos de percibirla. Me gusta programar y hablar idiomas. Decidí estudiar Bioquímica porque quería hacer un Grado científico y ¡resulta que mis padres son médicos!. Era la elección previsible.
 
