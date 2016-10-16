@@ -42,6 +42,6 @@ Otros conocimientos
 
 + Curso de Coursera en Aprendizaje Automático / Machine Learning (Andrew Ng.)
 + Leyendo Introduction to Statistical Learning
-+ Leyendo Advanced R by Hadley Wickahm
++ Leyendo Advanced R by Hadley Wickham
 + Leído Learn Python the Hard Way
-+ Leyendo Biological Sequence Analisys (Durbin *et al.*)
++ Leyendo Biological Sequence Analysis (Durbin *et al.*)

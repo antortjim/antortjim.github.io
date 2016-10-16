@@ -1,6 +1,5 @@
 ---
-layout: page
-title: Sobre mí
+layout: default 
 ref: index
 lang: es
 weight: 1

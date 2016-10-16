@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About me
+layout: default
 ref: index
 lang: en
 weight: 1
