@@ -4,6 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ref: portfolio
 lang: en
+weight: 3
 ---
 
 Here, you may find past projects completed during the Bachelor's.

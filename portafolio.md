@@ -3,6 +3,7 @@ layout: page
 title: Portafolio
 ref: portfolio
 lang: es
+weight: 3
 ---
 
 Aquí podrás encontrar un índice de los proyectos realizados durante el Grado que se encuentran relacionados con la bioinformática.

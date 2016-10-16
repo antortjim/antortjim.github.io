@@ -3,6 +3,7 @@ layout: page
 title: Sobre mí
 ref: about
 lang: es
+weight: 1
 ---
 
 ¡Hola! Mi nombre es Antonio Ortega, y soy un estudiante de prmer año en el Máster de Bioinformática en la Universidad de Copenhague, en Dinamarca. Completé mi Grado en Bioquímica en la Universidad de Sevilla, España. En esta página temo aburrite con las razones que me empujaron a iniciar una carrera profesional en Bioinformática.
