@@ -8,12 +8,12 @@ ref: skills
 Lenguajes de programación
 =========================
 
-* Advanced R (> 2 years)
-* Intermediate Python (1 year)
-* Intermediate Linux shell (> 2 years)
-* Beginner Matlab ( < 1 year)
-* Beginner HTML/CSS ( < 2 years)
-* Beginner Latex ( < 1 year)
+* Advanced R (> 2 años)
+* Intermediate Python (1 año)
+* Intermediate Linux shell (> 2 años)
+* Beginner Matlab ( < 1 año)
+* Beginner HTML/CSS ( < 2 años)
+* Beginner Latex ( < 1 año)
 
 Herramientas Bioinformáticas
 =============================
@@ -30,7 +30,7 @@ Herramientas Bioinformáticas
 Habilidades computacionales
 ==============================
 
-+ Experienced Linux user (2.5 years)
++ Experienced Linux user (2.5 años)
 + Sun Grid Engine cluster
 + ssh & scp
 + Sphinx and Jekyll dynamic websites generators
