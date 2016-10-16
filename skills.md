@@ -44,4 +44,4 @@ Additional background
 + Reading Introduction to Statistical Learning
 + Reading Advanced R by Hadley Wickahm
 + Read Learn Python the Hard Way
-+ Reading Biological Sequence Analisys (Durbin *et al.*)
++ Reading Biological Sequence Analysis (Durbin *et al.*)

@@ -21,8 +21,8 @@ description: #> # this means to ignore newlines until "baseurl:"
   en: Welcome to Antonio Ortega's personal website! Here you can explore my portfolio and my profile. You can find more in About me.
   es: Bienvenido a la página personal de Antonio Ortega. Aquí puedes explorar mi portfolio y mi perfil. Aprende más sobre mí en Sobre mí.
 index:
-  en:
-  es: portada.html
+  en: about.md
+  es: 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site
 twitter_username: antortjim
