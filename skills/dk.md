@@ -3,6 +3,6 @@ layout: page
 title: Færdigheder 
 lang: dk
 ref: skills
-weight: 4
+weight: 3
 ---
 

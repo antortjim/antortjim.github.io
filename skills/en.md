@@ -4,6 +4,7 @@ title: Skills
 permalink: skills/
 lang: en
 ref: skills
+weight: 3
 ---
 
 Programming languages

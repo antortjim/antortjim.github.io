@@ -3,6 +3,6 @@ title: CV
 layout: page
 lang: dk
 ref: cv
-weight: 2
+weight: 1
 ---
 

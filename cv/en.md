@@ -3,7 +3,7 @@ title: CV
 layout: page
 lang: en
 ref: cv
-weight: 2
+weight: 1
 ---
 
 **Education**

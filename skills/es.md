@@ -3,7 +3,7 @@ layout: page
 title: Aptitudes
 lang: es
 ref: skills
-weight: 4
+weight: 3
 ---
 
 Lenguajes de programación

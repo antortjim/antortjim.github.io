@@ -14,8 +14,9 @@
       </a>
 
       <div class="trigger">
-        {% assign pages = site.pages | where:"lang", page.lang | sort: 'weight'  %}
-<!--    {% assign pages = site.pages | where:"lang", page.lang %} -->
+ <!--   {% assign pages = site.pages | where: "lang", page.lang | sort: 'weight'  %} -->
+        {% assign pages = site.pages | sort: "weight" | where: "lang", page.lang | sort: "weight" %} 
+
         {% for my_page in pages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }} </a>
@@ -38,9 +39,9 @@
    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
    {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
  
-   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' | sort: 'weight'  %}
-   {% include flag.html %} 
-   <!-- {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}"> {{ page.lang }} </a> {% endfor %}  -->
+   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang'  %}
+   {% include flag.html %}
+   <!-- {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}"> {{ page.lang }} </a> {% endfor %} --> 
  </div>
 
 </div>
