@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Portafolio
+title: Proyectos
 ref: portfolio
 lang: es
 weight: 3
 ---
 
-Aquí podrás encontrar un índice de los proyectos realizados durante el Grado que se encuentran relacionados con la bioinformática.
+Índice de los proyectos realizados durante el Grado relacionados con la bioinformática.
 
 * [Análisis de datos de microarrays](http://people.binf.ku.dk/rnq313/BMS_1/html/) en R.
 

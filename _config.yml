@@ -18,8 +18,8 @@ title:
   es: Antonio Ortega
 email: rnq313@alumni.ku.dk
 description: #> # this means to ignore newlines until "baseurl:"
-  en: Welcome to Antonio Ortega's personal website! Here you can explore my portfolio and my profile. You can find more in About me.
-  es: Bienvenido a la página personal de Antonio Ortega. Aquí puedes explorar mi portfolio y mi perfil. Aprende más sobre mí en Sobre mí.
+  en: Welcome to Antonio Ortega's personal website! Here you can explore his portfolio and his profile.
+  es: Bienvenido a la página personal de Antonio Ortega. Aquí puedes explorar sus proyectos y su perfil.
 index:
   en: index.html
   es: sobre-mi.html

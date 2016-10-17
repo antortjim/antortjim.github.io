@@ -13,3 +13,12 @@ p {
 {
    padding-left: 785px;
 } */
+
+.item {
+   font-size: 20px;
+}
+
+.description {
+   font-size: 15px;
+   padding-left: calc( 20px );
+}

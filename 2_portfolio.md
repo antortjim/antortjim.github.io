@@ -7,7 +7,7 @@ lang: en
 weight: 3
 ---
 
-Here, you may find past projects completed during the Bachelor's.
+Past projects completed during the Bachelor's.
 
 * [Microarray data analysis](http://people.binf.ku.dk/rnq313/BMS_1/html/) using R.
 

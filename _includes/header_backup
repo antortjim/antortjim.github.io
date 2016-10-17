@@ -14,10 +14,11 @@
       </a>
 
       <div class="trigger">
-        {% assign pages=site.pages | where:"lang", page.lang %}
+        {% assign pages = site.pages | where:"lang", page.lang | sort: 'weight'  %}
+<!--    {% assign pages = site.pages | where:"lang", page.lang %} -->
         {% for my_page in pages %}
           {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }} Hola Amigos</a>
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }} </a>
           {% endif %}
         {% endfor %}
       </div>
@@ -31,6 +32,13 @@
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
   {% for post in posts %} <a href="{{ post.url | prepend: site.baseurl }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
 
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' | sort: 'weight'  %}
   {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
 </div>
+
+<div class="page-content">
+      <div class="wrapper">
+ <img class = "logo" src="{{ site.url }}/assets/images/ku_logo.png" alt="KU logo" height="60" width="60">
+      </div>
+    </div>
+
