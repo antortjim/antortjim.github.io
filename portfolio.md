@@ -29,3 +29,5 @@ Here, you may find past projects completed during the Bachelor's.
  
    1. Extended ChIP-seq analysis for prediction of PIF1 and PIF4 interaction in *A. thaliana*
    2. RNA-seq *de novo* analysis of early and late embrionary states in *X. tropicalis* using edgeR.
+
+* [Bachelor Thesis](http://people.binf.ku.dk/rnq313/TFG/tfg.pdf), entitled "Caracterización de la proteína All1873 (in Spanish).

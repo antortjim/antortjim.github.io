@@ -28,3 +28,6 @@ Aquí podrás encontrar un índice de los proyectos realizados durante el Grado 
  
    1. Análisis de ChiP-seq extendido para la predicción de interacciones entre PIF1 y PIF4 en *A. thaliana*
    2. Análisis de RNA-seq *de novo* de estados embrionarios temprano y tardío en *X. tropicalis* empleando edgeR.
+
+* [Trabajo de Fin de Grado](http://people.binf.ku.dk/rnq313/TFG/tfg.pdf), titulado "Caracterización de la proteína All1873.
+
