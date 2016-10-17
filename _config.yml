@@ -24,8 +24,8 @@ description: #> # this means to ignore newlines until "baseurl:"
   dk : 
 index:
   en: index.html
-  es: sobre-mi.html
-  dk: om.html
+  es: pages/index/es.html
+  dk: pages/index/dk.html
 
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site
