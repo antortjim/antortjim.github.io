@@ -13,5 +13,5 @@ Durante el Grado, entré en contacto con la Bioinformática, una disciplina con 
 
 Trato de invertir mi tiempo libre en cosas de provecho. Creo que una de las mejores formas que hay para conocernos a nosotros mismos es conocer el mundo, de ahí que me encante viajar. El resto del tiempo lo dedico a hacer deporte (correr y gimnasio) y disfrutar de la vida social en la Universidad.
 
-![La Giralda de Sevilla]({{ site.url }}/assets/images/giralda.jpg)
-![Tietgen Kollegium]({{ site.url }}/assets/images/tietgen.jpg)
+![La Giralda de Sevilla]({{ site.url }}/assets/images/giralda.jpg){: .my-pic }
+![Tietgen Kollegium]({{ site.url }}/assets/images/tietgen.jpg){: .my-pic }

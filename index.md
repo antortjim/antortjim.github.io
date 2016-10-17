@@ -13,5 +13,5 @@ During the programme, I was introduced to Bioinformatics, a discipline with a hu
 
 I try to invest my free time on productive stuff. One of the best ways to get to know oneself is travelling, and so I find it an extremely fulfilling activity. The rest of the time I practice jogging and strength training, and I enjoy social life in the University of Copenhagen.
 
-![La Giralda de Sevilla]({{ site.url }}/assets/images/giralda.jpg)
-![Tietgen Kollegium]({{ site.url }}/assets/images/tietgen.jpg)
+![La Giralda de Sevilla]({{ site.url }}/assets/images/giralda.jpg){: .my-pic }
+![Tietgen Kollegium]({{ site.url }}/assets/images/tietgen.jpg){: .my-pic }

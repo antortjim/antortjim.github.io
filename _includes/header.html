@@ -35,3 +35,5 @@
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' | sort: 'weight'  %}
   {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
 </div>
+
+ <img src="{{ site.url }}/assets/images/ku.png" alt="KU logo" height="60" width="60"> 
