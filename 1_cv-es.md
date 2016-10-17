@@ -32,4 +32,4 @@ Francés - básico (DELF B1)
 
 Visita la página correspondiente si quieres ver un listado de [proyectos](/2_proyectos.html) y [destrezas](/3_aptitudes.html).
 
-También puedes descargar [mi *Currículum Vitae*]( https://mega.nz/#!ossGRLBa!Ix0tM3cRKe_0Q6vG0_2uy86UQw09cHwTQ0jmWOTfN9o ) puedes descargar en castellano.
+También puedes descargar [mi *Currículum Vitae*]( https://mega.nz/#!ossGRLBa!Ix0tM3cRKe_0Q6vG0_2uy86UQw09cHwTQ0jmWOTfN9o ) en castellano.

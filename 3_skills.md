@@ -41,6 +41,6 @@ Additional background
 
 + Completed Coursera course on Machine Learning (Andrew Ng.)
 + Reading Introduction to Statistical Learning
-+ Reading Advanced R by Hadley Wickahm
++ Reading Advanced R by Hadley Wickham
 + Read Learn Python the Hard Way
 + Reading Biological Sequence Analysis (Durbin *et al.*)
