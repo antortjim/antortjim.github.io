@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aptitudes
+title: 
 lang: es
 ref: skills
 weight: 4
