@@ -30,6 +30,7 @@ English - advanced (Cambridge Advanced 194/210)
 French - basic (DELF B1)
 
 
-Check out these links if you would like to see a [portfolio](/portfolio/index.html) and [skills](/skills/index.html).
+* Check out these links if you would like to see a [portfolio](/portfolio/index.html) and [skills](/skills/index.html).
 
-You can also download [my *Curriculum Vitae*](https://mega.nz/#!wwUE3AjQ!rTgf6JWwRGAdHggif0meQc7dpdAdJyY5zCBqK6KfIw4) in English.
+* You can also download [my *Curriculum Vitae*](https://mega.nz/#!wwUE3AjQ!rTgf6JWwRGAdHggif0meQc7dpdAdJyY5zCBqK6KfIw4) in English.
+

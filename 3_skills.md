@@ -31,9 +31,9 @@ Hacking skills
 =========================
 
 + Experienced Linux user (2.5 years)
-+ Sun Grid Engine cluster
++ Sun Grid Engine cluster experience
 + ssh & scp
-+ Sphinx and Jekyll dynamic websites generators
++ Sphinx, R Markdown and Jekyll dynamic website generators
 + Arduino
 
 Additional background

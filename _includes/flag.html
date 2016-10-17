@@ -1,0 +1,12 @@
+{% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">
+{% if page.lang == "en" %}
+<img src="/assets/images/flag.gif" alt="" height="28.66px" width="44px">
+{% endif %}
+{% if page.lang == "es" %}
+<img src="/assets/images/bandera.jpg" alt="" height="28.66px" width="44px">
+{% endif %}
+{% if page.lang == "dk" %}
+<img src="/assets/images/dannebrog.png" alt="" height="28.66px" width="44px">
+{% endif %}
+</a>
+{% endfor %}

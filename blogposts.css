@@ -22,3 +22,8 @@ p {
    font-size: 15px;
    padding-left: calc( 20px );
 }
+
+.aParent div {
+  /*float: left;*/
+  clear: none; 
+}
