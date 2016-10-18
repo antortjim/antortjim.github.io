@@ -15,7 +15,7 @@ Grado en Bioquímica - Universidad de Sevilla
 
 **Distinciones**
 
-[Premio Extraordinario de Bachillerato](http://www.juntadeandalucia.es/boja/2013/24/7) por la provincia de Huelva
+[Premio Extraordinario de Bachillerato](http://www.juntadeandalucia.es/boja/2013/24/BOJA13-024-00002-1591-01_00020633.pdf) por la provincia de Huelva
 
 [Premio Paco Anillo](http://thales.cica.es/olimpiada2/?q=node/1203) por la Provincia de Huelva
 
