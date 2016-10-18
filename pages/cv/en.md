@@ -38,5 +38,5 @@ Click [here](/portfolio/index.html)
 Click [here](/skills/index.html)
 
 
-* You can also download [my *Curriculum Vitae*](https://mega.nz/#!s8NRhJjT!NALPsIpb8gw33JWA4RPmqNORO1KZsNbK7dpBI0Pi5Cs) in English.
+* You can also download [my *Curriculum Vitae*](https://mega.nz/#!IoMykBbR!0qXXwgSE74ZNsbAa_whWIiHxFhnpiMfq6WybaKWePTQ) in English.
 
