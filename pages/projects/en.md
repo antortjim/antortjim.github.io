@@ -9,9 +9,9 @@ weight: 2
 
 Past projects completed during the Bachelor's.
 
-### Not original (replicates published scientific works) ###
+### Replicates of previouslly published scientific works) ###
 
-Reference to the scientific article this work is based on may be found in the *references* section.
+The projects below are just replicates of the published computational analysis carried out by other scientists. Thus, despite there might be minor differences, the bulk of the creation is *not* my own original work. Reference to the scientific article this work is based on may be found in the *references* section.
 
 {% include table.html %}
 
@@ -24,6 +24,8 @@ Reference to the scientific article this work is based on may be found in the *r
 * [Variant call analysis](http://people.binf.ku.dk/rnq313/BAG_4/tarea4.pdf) and its [shell script](http://people.binf.ku.dk/rnq313/BAG_4/GWAS.sh) (in Spanish).
 
 ### Original work ###
+
+These projects are either extended analysis work of published data, or truly original work.
 
 * [Bioinformatics and Genomic Analysis final exam](http://people.binf.ku.dk/rnq313/EXAM/examen.pdf) consisting of 2 parts:
  
