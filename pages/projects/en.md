@@ -13,14 +13,8 @@ Past projects completed during the Bachelor's.
 
 Reference to the scientific article this work is based on may be found in the *references* section.
 
-* [Microarray data analysis](http://people.binf.ku.dk/rnq313/BMS_1/html/) using R.
+{% include table.html %}
 
-* [RNA-seq data analysis](http://people.binf.ku.dk/rnq313/BMS_2/html/) using the Tuxedo Protocol (in Spanish).
-
-* [Gene coexpression network](http://people.binf.ku.dk/rnq313/BMS_3/html/) study.
-
-* [Calcium physiology simulation](http://people.binf.ku.dk/rnq313/BMS_4/html/) study.
- 
 * [Pipeline](http://people.binf.ku.dk/rnq313/BAG_1/html/) for RNA-seq and ChIP-seq integral analysis.
  
 * [Python report](http://people.binf.ku.dk/rnq313/BAG_2/synteny.pdf) and its [script](http://people.binf.ku.dk/rnq313/BAG_2/tarea_2.py) running the synteny algorithm on the genomes of *M. pneumoniae* and *M. genitalium*.
@@ -37,3 +31,4 @@ Reference to the scientific article this work is based on may be found in the *r
    2. RNA-seq *de novo* analysis of early and late embrionary states in *X. tropicalis* using edgeR.
 
 * [Bachelor Thesis](http://people.binf.ku.dk/rnq313/TFG/tfg.pdf), entitled "Caracterización de la proteína All1873" (in Spanish).
+
