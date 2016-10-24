@@ -7,8 +7,6 @@ lang: en
 weight: 2
 ---
 
-{% include table.html %}
-
 Past projects completed during the Bachelor's.
 
 ### Not original (replicates published scientific works) ###
