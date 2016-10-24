@@ -28,7 +28,7 @@ Bioinformatics tools
 + COPASI
 + GATK
 
-Hacking skills
+Practical skills
 =========================
 
 + Experienced Linux user (2.5 years)

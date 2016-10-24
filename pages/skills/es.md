@@ -28,7 +28,7 @@ Herramientas Bioinformáticas
 + GATK
 
 
-Habilidades computacionales
+Habilidades prácticas 
 ==============================
 
 + Experienced Linux user (2.5 años)
