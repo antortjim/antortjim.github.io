@@ -27,6 +27,8 @@ Bioinformatics tools
 + Cytoscape
 + COPASI
 + GATK
++ MACS
++ PeakAnalyzer
 
 Practical skills
 =========================

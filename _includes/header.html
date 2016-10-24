@@ -18,9 +18,11 @@
         {% assign pages = site.pages | sort: "weight" | where: "lang", page.lang | sort: "weight" %} 
 
         {% for my_page in pages %}
+        {% unless my_page.exclude_from_nav %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }} </a>
           {% endif %}
+        {% endunless %}
         {% endfor %}
       </div>
     </nav>
