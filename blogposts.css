@@ -46,3 +46,33 @@ p {
     width: 350px;
     padding-right: 20px;
 }
+
+
+.foldable_toggle a {
+	padding-left: 10px;	
+	position: relative;
+	-moz-user-select: none;
+}
+ 
+.foldable_toggle a:focus {
+	outline: none;
+}
+ 
+.foldable_toggle .toggle {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background: url(../images/layout/toggle_arrows.png) no-repeat -39px -16px;
+	width: 14px;
+	height: 16px;
+}
+ 
+.foldable_toggle .unfolded .toggle {
+	background-position: -68px -16px;
+}
+ 
+.foldable {
+	background-color: #ebebeb;
+	padding: 10px;
+}

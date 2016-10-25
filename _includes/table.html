@@ -1,9 +1,25 @@
+<script>
+$('.foldable').hide();
+ 
+$('.foldable_toggle').each(function() {
+	$(this).append('<span class="toggle">&nbsp;</span>');
+	$(this).wrapInner('<a href="#"></a>');
+});
+ 
+$('.foldable_toggle a').click(function() {
+	$(this).parent().next('.foldable').toggle('slow');
+	$(this).toggleClass('unfolded');
+	return false;
+});
+</script>
+
 <div class="container">
 
     <div class="row">
 
       <div class="span4">
-        <h4><a href="http://people.binf.ku.dk/rnq313/BMS_1/html"> Microarray data analysis</a></h4>
+        <h4 class="foldable_toggle"><a href="http://people.binf.ku.dk/rnq313/BMS_1/html"> Microarray data analysis</a></h4>
+        <div class="foldable">
         <p> Data for 5 conditions in mice lung tissue </p>
         <p><strong>What I learned:</strong></p>
           <ul>
@@ -13,6 +29,7 @@
           <li>Microarray tech pros and cons </li>
           <li>GEO database</li>
           </ul>
+          </div>
       </div><!--/span-->
 
       <div class="span4">
