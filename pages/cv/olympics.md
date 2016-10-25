@@ -1,5 +1,5 @@
 ---
-title: Best high school record
+title: Mathematical Olympics
 layout: default
 lang: en
 exclude_from_nav: true
