@@ -6,7 +6,7 @@ ref: premio_extraordinario
 exclude_from_nav: true
 ---
 
-The best high school record award (*Premio Extraordinario de Bachillerato*) consists of an award organised by the regional government of Andalusia. All Andalusian students whose grades where >= 8.75/10 during the 2 high school years prior to college (Spanish *Bachillerato*) could take a series of exams, run at the regional level. Prizes were awarded at the provincial level, so there was at least one awarded student in each of the eight Andalusian provinces, being Huelva one of them.
+The best high school record accolade (*Premio Extraordinario de Bachillerato*) consists of an award organised by the regional government of Andalusia. All Andalusian students whose grades where >= 8.75/10 during the 2 high school years prior to college (Spanish *Bachillerato*) could take a series of exams, run at the regional level. Prizes were awarded at the provincial level, so there was at least one awarded student in each of the eight Andalusian provinces, being Huelva one of them.
 
 All the students taking it met at the government's provincial headquarters and confronted the same tests at the same time. 4 tests were taken in total:
 
