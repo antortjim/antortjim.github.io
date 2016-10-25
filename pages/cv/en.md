@@ -17,7 +17,7 @@ BSc. Biochemistry - University of Seville
 
 [Best high school record](/pages/cv/best_record.html) in the province of Huelva
 
-[Paco Anillo award](pages/cv/olympics.html) in the high school Mathematics Olympics
+[Paco Anillo award](/pages/cv/olympics.html) in the high school Mathematics Olympics
 
 4 Honors during the Bachelor
 
