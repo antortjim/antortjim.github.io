@@ -2,7 +2,6 @@
 title: Best high school record
 layout: default
 lang: en
-ref: premio_extraordinario
 exclude_from_nav: true
 ---
 
