@@ -38,5 +38,5 @@ Click [here](/portfolio/index.html)
 Click [here](/skills/index.html)
 
 
-* You can also download [my *Curriculum Vitae*](https://mega.nz/#!IoMykBbR!0qXXwgSE74ZNsbAa_whWIiHxFhnpiMfq6WybaKWePTQ) in English.
+* You can also download [my *Curriculum Vitae*](http://people.binf.ku.dk/rnq313/cv/CV-en.pdf) in English.
 

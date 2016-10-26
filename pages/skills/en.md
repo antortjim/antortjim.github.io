@@ -17,18 +17,33 @@ Programming languages
 * Beginner HTML/CSS ( < 2 years)
 * Beginner Latex ( < 1 year)
 
-Bioinformatics tools
+Bioinformatics software
 =========================
 
-+ Tuxedo pipeline (Bowtie, Tophat, Cufflinks, cummeRbund)
-+ MEGA
++ Tuxedo protocol (Bowtie, Tophat, Cufflinks, cummeRbund)
++ MEGA (Molecular Evolutionary Genetics Analysis)
 + Jalview
 + IGV/Artemis
 + Cytoscape
 + COPASI
++ CellDesigner
 + GATK
 + MACS
 + PeakAnalyzer
++ Scipio
++ HMMER
+
+
+Machine learning methods
+=============================
+
++ Linear and Logistic Regression
++ Neural Networks
++ Support Vector Machines (SVM)
++ K-means
++ Principal Components Analysis (PCA)
++ Hidden Markov Models
+
 
 Practical skills
 =========================
