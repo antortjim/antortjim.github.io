@@ -10,7 +10,14 @@ weight: 1
 
 MSc. Bioinformatics - University of Copenhagen
 
+* First year Student 
+
 BSc. Biochemistry - University of Seville
+
+* **GPA**: 2.51/4.0. 
+* **10-point average**: 8.46/10
+* **Honors** on Statistics, Biosynthesis of Macromolecules, Human Genetics, and Bioinformatics
+
 
 
 **Distictions**

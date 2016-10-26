@@ -31,6 +31,8 @@ Bioinformatics software
 + MACS
 + PeakAnalyzer
 + Scipio
++ MEME
++ BLAST
 + HMMER
 
 
@@ -53,6 +55,14 @@ Practical skills
 + ssh & scp
 + Sphinx, R Markdown and Jekyll dynamic website generators
 + Arduino
+
+Lab protocols
+=============
+
++ PCR
++ Electrophoresis
++ Bacterial culture
++ DNA manipulation
 
 Additional background
 =========================
