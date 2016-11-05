@@ -46,4 +46,5 @@ Click [here](/skills/index.html)
 
 
 * You can also download [my *Curriculum Vitae*](http://people.binf.ku.dk/rnq313/cv/CV-en.pdf) in English.
+* You can find [me at KU Job Bank](http://jobbank.ku.dk/en/cv/antortjim)
 
