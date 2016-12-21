@@ -26,3 +26,4 @@ These projects are either extended analysis work of published data, or truly ori
 
 * [Bachelor Thesis](http://people.binf.ku.dk/rnq313/TFG/tfg.pdf), entitled "Caracterización de la proteína All1873" (in Spanish).
 
+* [Statistics for e-Science work](https://antortjim.github.io/posts/2016/12/21/ioslides-and-Shiny-apps-showcase.html), a ioslides presentation and Shiny apps developed as part of the weekly exercises in this subject at KU 
