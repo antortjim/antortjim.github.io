@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Microarray preliminary analysis in R"
+date:   2017-02-21
+categories: posts
+lang: en
+---
+
+Microarrays can be used to characterize the expression profile of a battery of known genes in cells, enabling research on several biology topics such as cancer.
+
+In this entry I will show how to get started in their analysis. The microarray data used here is available at [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62166) and was originally published in [this Nature article](http://www.nature.com/ncb/journal/v18/n7/full/ncb3378.html).
+
+
