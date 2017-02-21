@@ -127,7 +127,6 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">microarrays_jekyll</h1>
 <h4 class="author"><em>Antonio Ortega</em></h4>
 <h4 class="date"><em>February 21, 2017</em></h4>
 
