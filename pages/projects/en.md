@@ -13,7 +13,7 @@ Past projects completed during the Bachelor's.
 
 The projects below are just replicates of the published computational analysis carried out by other scientists. Thus, despite there might be minor differences, the bulk of the creation is *not* my own original work. Reference to the scientific article projects are based on may be found in the *references* section.
 
-{% include table.html %}
+{% include portfolio.html %}
 
 ### Original work ###
 

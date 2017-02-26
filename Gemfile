@@ -17,6 +17,7 @@ gem "kramdown", "1.11.1"
 gem "jekyll-sass-converter", "1.3.0"
 gem "listen", "3.0.6"
 
+gem 'jekyll-admin', group: :jekyll_plugins
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

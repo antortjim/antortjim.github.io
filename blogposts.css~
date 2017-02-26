@@ -51,6 +51,7 @@ p {
 .youtube_video {
     float: left;
     clear: none;
+    width: 300px;
     padding: 20px;
 }
 
