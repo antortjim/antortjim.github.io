@@ -4,7 +4,6 @@ title:  "Youtube digest"
 date:   2017-02-27
 categories: posts
 lang: en
-ref: youtube
 ---
 
 Youtube can be one of the best educational resources ever. At its best it can actually beat college lectures.
