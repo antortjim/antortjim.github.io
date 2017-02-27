@@ -14,4 +14,9 @@ Youtube can be one of the best educational resources ever. At its best it can ac
 
 Here is a list of some of those channels I consider to be true pearls in the internet ocean. Hope you enjoy them!
 
-{% include youtube_digest.html %}
+* [3Blue1Brown](https://youtu.be/DuiryHHTrjU) <- I help adding Spanish captions to the videos
+* [Vsauce](https://youtu.be/IJhgZBn-LHg)
+* [Art of the Problem](https://youtu.be/p0ASFxKS9sg)
+* [Veritasium](https://youtu.be/a8FTr2qMutA)
+* [Fermilab](https://youtu.be/CwMq_xqif8k)
+* [iBiology](https://youtu.be/PqPGOhXoprU)

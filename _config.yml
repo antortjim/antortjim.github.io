@@ -38,3 +38,5 @@ theme: minima
 
 
 array: []
+
+gems: ["youtube"]
