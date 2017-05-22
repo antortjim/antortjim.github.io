@@ -40,6 +40,10 @@ French - basic (DELF B1)
 
 Click [here](/portfolio/index.html)
 
+<iframe src="/pdf/CV_en.pdf" width="100%" height="800rem">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/CV_en.pdf">Download PDF</a>
+</iframe>
+
 **Skills**
 
 Click [here](/skills/index.html)
