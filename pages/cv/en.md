@@ -6,10 +6,6 @@ ref: cv
 weight: 1
 ---
 
-<iframe src="http://people.binf.ku.dk/rnq313/cv/CV-en.pdf" width="100%" height="800rem">
-This browser does not support PDFs. Please download the PDF to view it: <a href="http://people.binf.ku.dk/rnq313/cv/CV-en.pdf">Download PDF</a>
-</iframe>
-
-<embed src="http://people.binf.ku.dk/rnq313/cv/CV-en.pdf" type="application/pdf" width="100%" height="800em">
+<iframe src="https://drive.google.com/file/d/0B1j9eQO7HvNKR3BtcXJLalNBNms/preview" width="640" height="480"></iframe>
 
 [KU Job Bank](https://karriere.ku.dk/da/profiles/antonioortegajimenez)
