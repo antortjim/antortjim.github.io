@@ -16,13 +16,13 @@ These projects comprise either extended analysis of published data, or  complete
 * [Master Thesis titled "Development of label-free quantification methods in proteomics".](http://people.binf.ku.dk/rnq313/master_thesis/thesis.pdf) (I) Compilation of an open-source free (cost and license) pipeline for the analysis and quantification of DDA proteomics datasets in a GNU/Linux environment. Makes extensive use of the tools developed at the Compomics group at UGhent (Belgium). (II) Writing of a statistical model for the probabilistic quantification of protein ratios between samples using the PyMC3 framework, focusing on the assessment of uncertainty. Carried out at Advanced analytics in Novozymes.
 
 * [Bioinformatics project titled "Classification and prognosis of Rheumatoid Arthritis patients. A case study".](http://people.binf.ku.dk/rnq313/binfProject2/report.pdf)
-Data cleaning and engineering (Scikit-learn), and development of a vanilla neural neutwork (TensorFlow) for classification of patients into 2 remission groups. Carried out at Nordic Bioscience.
+Data cleaning and engineering (Scikit-learn), and development of a vanilla neural neutwork (TensorFlow) for classification of patients into 2 remission groups (progressor or not). An exploration of the architecture space revealed the dimensions of the best NN model and achieved a 0.78 AUC in the test set. Carried out at Nordic Bioscience.
 
 
 **2017**
 
 * [Bioinformatics project titled "An interactive visualization tool for clinical hypothesis generation".](http://people.binf.ku.dk/rnq313/binfProject1/report.pdf)
-Construction of a Shiny App for straightforward visualizations of health data. Carried out at Nordic Bioscience.
+Development of a Shiny App for straightforward visualizations of health data. Powered by ggplot2, the app performs an exploratory analysis of the PERF database using boxplots, scatterplots, and a correlogram. The data can be filtered by different categories to interactively modify the graphics and download subsets of the databse. Carried out at Nordic Bioscience.
 
 
 * ["Bioinformatics project titled "Finding patterns in fitness, nutrition and lifestyle-associated genomics data".](http://people.binf.ku.dk/rnq313/binfProject4/report.pdf)
