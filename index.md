@@ -5,13 +5,13 @@ lang: en
 weight: 0
 ---
 
-Hi! My name is Antonio Ortega, and I am a first year student at the MSc. in Bioinformatics at the University of Copenhagen, Denmark. I finished my Bachelor of Science at the University of Seville, Spain. On this page I will bore you with the reasons why I decided to pursue a career in Bioinformatics.
+Hi! My name is Antonio Ortega. I am a bioinformatician by training with great interest in data science and learning all kinds of stuff, specially languages, currently focusing on Danish (I live in Denmark) and Japanese (such a challenging and mysterious one).
 
-I try to be productive in my spare time. First of all, I love learning random stuff, mainly online and on Youtube. I follow channels like Vsauce, Veritasium, Langfocus, Art of the Problem, iBiology.. I like learning good science because of its ability to keep simple and, at the same time, explaining what we see and we perceive in an easy to understand way. I am fond of speaking languages, and programming code. I decided to study Biochemistry because I would like to do some science-related bachelor and my parents are doctors, so there you have it!
+ I love watching documentaries on History, politics and society to help me understand the world around me. It might sound like BS, but I feel a responsability to leave the world better than I found it. I enjoy following tutorials on open-source technologies and DIY projects. They are so cool and "hacky"!
 
-During the programme, I was introduced to Bioinformatics, a discipline with a huge capacity to transform our lives and our societies. Residing at the crossroads of biology, mathematics and computer science, to me it seemed to be a rewarding topic, where I would learn a lot. Indeed, stats can go crazy from time to time. And so, I ended up studying in the very Nordic capital of Denmark, Copenhagen.
+I am currently looking for a job in bioinformatics/data science. While I reside in Copenhagen, Denmark, I consider positions overseas, specially if it can lead to getting to know the culture, the language and in general a fruitful adventure.
 
- One of the best ways to get to know oneself is travelling, and so I find it an extremely fulfilling activity. The rest of the time I practice jogging and strength training, and I enjoy social life in the University of Copenhagen.
+In this website you will find more about me, my skills and a portfolio showcasing my experience. I see myself as a curious person who is committed to work very hard when there's a clear and meaningful goal at sight, while it is hard for me to push myself otherwise. 
 
 
 ![La Giralda de Sevilla]({{ site.url }}/assets/images/giralda.jpg){: .my-pic }
