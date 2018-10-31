@@ -5,10 +5,10 @@ lang: dk
 weight: 0
 ---
 
-Hej! Jeg hedder Antonio Ortega, og jeg studerer mit første år på kandidaten i bioinformatik ved Københavns Universitet, Danmark. Jeg færdiggjorde min Bsc. i biokemi ved Sevilla Universitet, Spanien. På denne side vil jeg kede jer med årsagerne til, hvorfor jeg har valgt en karriere indenfor bioinformatik :).
+Hej! Jeg hedder Antonio Ortega, og jeg er en bioinformatikker med en masse interesser på data analyser og læring. Særligt er jeg helt vildt med sprog. Jeg har faktisk studeret dansk siden jeg bliv i Danmark 2 år siden. Jeg er også meget nysgerrig med japansk, en helt foskellig sprog i forhold til det som europæiske sprog forbyder.
 
-For det første kan jeg godt lide at bruge internettet til at tilegne mig viden indenfor alverdens emner. Jeg følger flere Youtube kanaler så som Vsauce, Veritasium, Langfocus, Art of the Problem  og iBiology… Jeg elsker at studere naturvidenskab, fordi den mulliggører at beskrive den komplekse verden vi lever i. Jeg er glad for at tale sprog og programmere. Jeg valgte at studere biokemi, fordi jeg fandt en bachelor, der berører alle disse interesser.
+Jeg elsker at se dokumentarer om historie, politik og økonomi, så jeg kan bedre forstå verden. Måske lyder den som BS, men jeg føler ansvarlig for at forlade verden bedre en jeg fandt den. Eftersom jeg studerer bioinformatik, jeg er vild med open source software værktøj og DIY projekter. De kan være fascinerende.
 
-I løbet af bacheloren blev jeg introduceret for bioinformatik, et studie med stort potentiale til at ændre vores samfund og hverdag. Bioinformatik er en kombination af biologi, matematik og datalogi og virkede derfor som et spændende fag, hvor jeg kunne lære meget. Så jeg endte her i den nordlige danske hovedstad, København, hvor jeg har muligheden for at følge denne interesse. Jeg synes, at man lærer sig selv bedre at kende ved at rejse. Derfor har det været både en stor faglig og personlig oplevelse at komme til et andet land for at studere.
+I øjeblikket ansøger jeg et job i bioinformatik eller data science. Jeg bor i Storkøbenhavn området, men jeg ansøger job i hele EU. Så det er fint hvis jeg skal flytte til et andet sted, særlig hvis den bliver til et eventyr :)
 
-I min fritid dyrker jeg styrketræning og nyder det sociale liv på og omkring universitet.
+I min hjemmeside kan du finde mere om mig, mine færdighedder og min portfolio, som viser min erfaring. Jeg synes jeg er en nysgerrig menneske, forpligtet til at stræbe mig mod en tidligt mål. Ellers, kan jeg blive ret demotiveret.

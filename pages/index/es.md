@@ -4,13 +4,14 @@ ref: index
 lang: es
 ---
 
-¡Hola! Mi nombre es Antonio Ortega, y curso el primer año del Máster de Bioinformática en la Universidad de Copenhague, en Dinamarca. Completé mi Grado en Bioquímica en la Universidad de Sevilla, España. En esta página temo aburrirte con las razones que me empujaron a iniciar una carrera profesional en Bioinformática.
+Hola, soy Antonio, un bioinformático de formación con gran interés en ciencia de datos y el aprendizaje. En especial, me apasionan los idiomas. Actualmente estoy centrado en el idioma danés, ya que vivo en Dinamarca y en el japonés.
 
-Ante todo, me encanta aprender de todo, sobre todo en Internet y especialmente por Youtube. Sigo canales como Vsauce, Veritasium, Langfocus, Art of the Problem, iBiology.. Me encanta comprender asuntos científicos cuando son sencillos y son capaces de explicar los misterios de la naturaleza y las formas que tenemos de percibirla. Me gusta programar y hablar idiomas. Decidí estudiar Bioquímica porque quería hacer un Grado científico y ¡resulta que mis padres son médicos! Era la elección previsible.
+Me encanta ver documentales de Historia, política y economía para ayudarme a entender el mundo. Quizás suene como una chorrada, pero me siento responsable de dejar el mundo mejor que como lo encontré. Ya que estudio bioinformática, me encanta seguir tutoriales con herramientas de software libre o sobre proyectos DIY (*Do* *It* *Yourself*, Hazlo Tú Mismo). Pueden ser fascinantes.
 
-Durante el Grado, entré en contacto con la Bioinformática, una disciplina con una gran capacidad para transformar nuestras vidas y sociedades. Justo en la frontera entre la biología, las matemáticas y la informática, me pareció una materia agradecida, en la cual se puede aprender mucho y de forma sencilla gracias a todos los recursos disponibles en red. Así, acabé estudiando Bioinformática en la muy nórdica capital de Dinamarca, Copenhague.
+Actualmente busco un empleo relacionado con la bioinformática y la ciencia de datos. Resido en Copenhague, pero busco no solo aquí, también fuera de Dinamarca. Estoy especialmente interesado en cambiar si eso supone conocer una nueva cultura e idioma y en general se convierte en una nueva aventura.
 
-Trato de invertir mi tiempo libre en cosas de provecho. Creo que una de las mejores formas que hay para conocernos a nosotros mismos es conocer el mundo, de ahí que me encante viajar. El resto del tiempo lo dedico a hacer deporte (correr y gimnasio) y disfrutar de la vida social en la Universidad.
+En esta página puedes encontrar más sobre mí, mis habilidades y un portfolio mostrando mi experiencia. Me defino como una persona curiosa comprometida a trabajar duro cuando hay una meta clara y productiva a la vista, a la vez que me desmotivo con facilidad si esta no existe.
+
 
 ![La Giralda de Sevilla]({{ site.url }}/assets/images/giralda.jpg){: .my-pic }
 ![Tietgen Kollegium]({{ site.url }}/assets/images/tietgen.jpg){: .my-pic }
