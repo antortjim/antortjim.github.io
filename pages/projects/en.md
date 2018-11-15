@@ -6,6 +6,12 @@ ref: portfolio
 lang: en
 weight: 2
 ---
+<style>
+  .span4 {
+    list-style-position: inside;
+    margin-left: 10em;
+  }
+</style>
 
 ### Original work ###
 
@@ -15,8 +21,39 @@ These projects comprise either extended analysis of published data, or  complete
 
 * [Master Thesis titled "Development of label-free quantification methods in proteomics".](http://people.binf.ku.dk/rnq313/master_thesis/thesis.pdf) (I) Compilation of an open-source free (cost and license) pipeline for the analysis and quantification of DDA proteomics datasets in a GNU/Linux environment. Makes extensive use of the tools developed at the Compomics group at UGhent (Belgium). (II) Writing of a statistical model for the probabilistic quantification of protein ratios between samples using the PyMC3 framework, focusing on the assessment of uncertainty. Carried out at Advanced analytics in Novozymes.
 
+
+<div class="container">
+    <div class="row">
+
+      <div class="span4">
+          <p><strong>What I learned:</strong></p>
+          <ul>
+          <li>Probabilistic programming in PyMC3</li>
+          <li>DDA Proteomics analysis</li>
+          <li>Pipelining in bash</li>
+          </ul>
+      </div><!--/span-->
+</div>
+</div>
+
+
 * [Bioinformatics project titled "Classification and prognosis of Rheumatoid Arthritis patients. A case study".](http://people.binf.ku.dk/rnq313/binfProject2/report.pdf)
 Data cleaning and engineering (Scikit-learn), and development of a vanilla neural neutwork (TensorFlow) for classification of patients into 2 remission groups (progressor or not). An exploration of the architecture space revealed the dimensions of the best NN model and achieved a 0.78 AUC in the test set. Carried out at Nordic Bioscience.
+
+<div class="container">
+    <div class="row">
+
+      <div class="span4">
+          <p><strong>What I learned:</strong></p>
+          <ul>
+          <li>Data preprocessing in Python</li>
+          <li>Vanilla NNs with TensorFlow</li>
+          <li>Classifier evaluation with scikit-learn</li>
+          </ul>
+      </div><!--/span-->
+</div>
+</div>
+
 
 
 **2017**
