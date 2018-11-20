@@ -7,9 +7,9 @@ lang: en
 weight: 2
 ---
 <style>
-  .span4 {
+  .myspan {
     list-style-position: inside;
-    margin-left: 10em;
+    margin-left: 2em;
   }
 </style>
 
@@ -25,7 +25,7 @@ These projects comprise either extended analysis of published data, or  complete
 <div class="container">
     <div class="row">
 
-      <div class="span4">
+      <div class="span4 myspan">
           <p><strong>What I learned:</strong></p>
           <ul>
           <li>Probabilistic programming in PyMC3</li>
@@ -33,8 +33,9 @@ These projects comprise either extended analysis of published data, or  complete
           <li>Pipelining in bash</li>
           </ul>
       </div><!--/span-->
+  </div>
 </div>
-</div>
+<div class="row spacer25"></div>
 
 
 * [Bioinformatics project titled "Classification and prognosis of Rheumatoid Arthritis patients. A case study".](http://people.binf.ku.dk/rnq313/binfProject2/report.pdf)
@@ -43,7 +44,7 @@ Data cleaning and engineering (Scikit-learn), and development of a vanilla neura
 <div class="container">
     <div class="row">
 
-      <div class="span4">
+      <div class="span4 myspan">
           <p><strong>What I learned:</strong></p>
           <ul>
           <li>Data preprocessing in Python</li>
@@ -54,6 +55,7 @@ Data cleaning and engineering (Scikit-learn), and development of a vanilla neura
 </div>
 </div>
 
+<div class="row spacer25"></div>
 
 
 **2017**
