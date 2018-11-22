@@ -19,7 +19,11 @@ These projects comprise either extended analysis of published data, or  complete
 
 **2018**
 
-* [Master Thesis titled "Development of label-free quantification methods in proteomics".](http://people.binf.ku.dk/rnq313/master_thesis/thesis.pdf) (I) Compilation of an open-source free (cost and license) pipeline for the analysis and quantification of DDA proteomics datasets in a GNU/Linux environment. Makes extensive use of the tools developed at the Compomics group at UGhent (Belgium). (II) Writing of a statistical model for the probabilistic quantification of protein ratios between samples using the PyMC3 framework, focusing on the assessment of uncertainty. Carried out at Advanced analytics in Novozymes.
+* [Master Thesis titled "Development of label-free quantification methods in proteomics".](https://github.com/antortjim/Thesis-Code)
+
+(I) Compilation of an open-source free (cost and license) pipeline for the analysis and quantification of DDA proteomics datasets in a GNU/Linux environment. Makes extensive use of the tools developed at the Compomics group at UGhent (Belgium).
+
+(II) Writing of a statistical model for the probabilistic quantification of protein ratios between samples using the PyMC3 framework, focusing on the assessment of uncertainty. Carried out at Advanced analytics in Novozymes.
 
 
 <div class="container">
