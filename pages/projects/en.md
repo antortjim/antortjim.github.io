@@ -19,6 +19,28 @@ These projects comprise either extended analysis of published data, or  complete
 
 **2018**
 
+* [Technical test for the Junior Data Scientist position at Datrik Intelligence"](http://people.binf.ku.dk/rnq313/Datrik_test/report.pdf)
+
+This report consisted of my deliverable for the technical test required by the Data Analytics company [*Datrik* *Intelligence*](https://datrik.com/) to access their position as Junior Data Scientist. Its CEO is a well-known data scientist who has been #1 in Kaggle worldwide. The test consisted of a Explorative Data Analysis (EDA) coupled with the development of two predictive models.
+
+
+<div class="container">
+    <div class="row">
+
+      <div class="span4 myspan">
+          <p><strong>What I learned:</strong></p>
+          <ul>
+          <li>Multiple Correspondence Analysis (MCA) in FactoMiner</li>
+          <li>Tree-based modelling in scikit-learn</li>
+          </ul>
+      </div><!--/span-->
+  </div>
+</div>
+<div class="row spacer25"></div>
+
+
+
+
 * [Master Thesis titled "Development of label-free quantification methods in proteomics".](https://github.com/antortjim/Thesis-Code)
 
 (I) Compilation of an open-source free (cost and license) pipeline for the analysis and quantification of DDA proteomics datasets in a GNU/Linux environment. Makes extensive use of the tools developed at the Compomics group at UGhent (Belgium).
