@@ -11,8 +11,7 @@ Hi! My name is Antonio Ortega. I am a bioinformatician by training with great in
 
 I am currently looking for a job in bioinformatics/data science. While I reside in Copenhagen, Denmark, I consider positions overseas, specially if it can lead to getting to know the culture, the language and in general a fruitful adventure.
 
-In this website you will find more about me, my skills and a portfolio showcasing my experience. I see myself as a curious person who is committed to work very hard when there's a clear and meaningful goal at sight, while it is hard for me to push myself otherwise. 
-
+In this website you will find more about me, my skills and a portfolio showcasing my experience. I see myself as a curious person who is committed to work very hard when there's a clear and meaningful goal at sight.
 
 ![La Giralda de Sevilla]({{ site.url }}/assets/images/giralda.jpg){: .my-pic }
 ![Tietgen Kollegium]({{ site.url }}/assets/images/tietgen.jpg){: .my-pic }
