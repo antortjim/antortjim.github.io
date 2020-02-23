@@ -1,10 +1,7 @@
 Antonio's personal site
+===============================
 
-To serve locally
-
-`bundle exec jekyll serve`
-
-Make sure you have installed the dependencies (Ubuntu 18.04)
+# Install dependencies in Ubuntu 18.04
 
 ```
 sudo apt-get install ruby-full build-essential zlib1g-dev
@@ -31,3 +28,9 @@ jekyll install jekyll-gist
 jekyll install jekyll-feed
 jekyll install jemoji
 ```
+# Serve locally
+`bundle exec jekyll serve`
+
+
+# Multilingual support
+
